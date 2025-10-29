@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🛡️ Mapa de Seguridad - Valle de Aburrá</title>
+
+  <!-- Estilos -->
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>🛡️ Mapa de Seguridad y Riesgo - Valle de Aburrá</h1>
+    <div class="filters">
+      <select id="filterRiesgo">
+        <option value="">Nivel de riesgo</option>
+        <option value="💎 Diamante">💎 Diamante</option>
+        <option value="🥇 Oro">🥇 Oro</option>
+        <option value="🥈 Plata">🥈 Plata</option>
+        <option value="🥉 Bronce">🥉 Bronce</option>
+        <option value="🧱 Cobre">🧱 Cobre</option>
+      </select>
+
+      <select id="filterAlerta">
+        <option value="">Nivel de alerta</option>
+        <option value="🚨 Alerta Roja">🚨 Alerta Roja</option>
+        <option value="🟠 Alerta Media">🟠 Alerta Media</option>
+        <option value="🟢 Segura">🟢 Segura</option>
+      </select>
+
+      <select id="filterMunicipio">
+        <option value="">Municipio</option>
+      </select>
+
+      <select id="filterDelito">
+        <option value="">Tipo de delito</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <aside id="sidebar">
+      <h2>📊 Resumen de seguridad</h2>
+      <canvas id="alertChart"></canvas>
+      <ul id="statsList">
+        <li><strong>🧭 Sectores mostrados:</strong> <span id="statSectores">0</span></li>
+        <li><strong>📈 Promedio de casos:</strong> <span id="statCasos">0</span></li>
+        <li><strong>🏙️ Municipio con más delitos:</strong> <span id="statMunicipio">N/A</span></li>
+        <li><strong>💰 Promedio arriendo:</strong> <span id="statArriendo">0</span></li>
+      </ul>
+    </aside>
+
+    <div id="map"></div>
+  </main>
+
+  <footer>
+    <p>© 2025 Datos: Policía Nacional, Observatorio de Seguridad, Arriendos 2025</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

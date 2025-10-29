@@ -1,0 +1,733 @@
+﻿seguridad.nombre_barrio,promedio_robos,casos_totales,nivel_geo,seguridad.codigo_barrio,seguridad.codigo_comuna,zona_clave,municipio_x,promedio_robos_municipio,casos_municipio,departamento,sector,comuna,municipio_y,promedio_arriendo_apartamento,rango_apartamento,promedio_arriendo_casa,rango_casa,promedio_arriendo_local,rango_local,indice_riesgo,nivel_riesgo,alerta
+,,,,,,ANTIOQUIA|ABEJORRAL,ABEJORRAL,1.0,48.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ABRIAQUI,ABRIAQUI,,1.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ALEJANDRIA,ALEJANDRIA,1.25,11.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|AMAGA,AMAGA,1.28125,201.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|AMALFI,AMALFI,1.3666666666666667,114.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ANDES,ANDES,1.4464285714285714,204.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ANGELOPOLIS,ANGELOPOLIS,1.3333333333333333,21.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ANGOSTURA,ANGOSTURA,1.25,39.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ANORI,ANORI,1.1666666666666667,42.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ANZA,ANZA,1.0,15.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|APARTADO,APARTADO,2.9875,1146.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ARBOLETES,ARBOLETES,1.0,67.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ARGELIA,ARGELIA,1.0,7.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ARMENIA,ARMENIA,,6.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BARBOSA,BARBOSA,1.9210526315789473,541.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BELLO,BELLO,24.557291666666668,11682.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BELMIRA,BELMIRA,1.1428571428571428,17.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BETANIA,BETANIA,1.1538461538461537,31.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BETULIA,BETULIA,1.0714285714285714,49.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BRICENO,BRICENO,1.0,14.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|BURITICA,BURITICA,1.0909090909090908,55.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CACERES,CACERES,1.1666666666666667,58.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CAICEDO,CAICEDO,1.0,19.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CALDAS,CALDAS,2.3448275862068964,846.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CAMPAMENTO,CAMPAMENTO,1.0,7.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CANASGORDAS,CANASGORDAS,1.0,54.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CARACOLI,CARACOLI,1.0,6.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CARAMANTA,CARAMANTA,1.5,9.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CAREPA,CAREPA,1.3289473684210527,268.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CAROLINA,CAROLINA,1.1,18.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CAUCASIA,CAUCASIA,2.2885906040268456,926.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CHIGORODO,CHIGORODO,1.5569620253164558,298.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CISNEROS,CISNEROS,1.1578947368421053,73.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CIUDAD BOLIVAR,CIUDAD BOLIVAR,1.1951219512195121,96.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|COCORNA,COCORNA,1.2564102564102564,95.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CONCEPCION,CONCEPCION,1.25,18.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|CONCORDIA,CONCORDIA,1.0434782608695652,75.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|COPACABANA,COPACABANA,3.6864864864864866,1675.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|DABEIBA,DABEIBA,1.0740740740740742,71.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|DON MATIAS,DON MATIAS,1.2666666666666666,133.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|EBEJICO,EBEJICO,1.1666666666666667,29.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|EL BAGRE,EL BAGRE,1.2533333333333334,201.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|EL CARMEN DE VIBORAL,EL CARMEN DE VIBORAL,1.7826086956521738,413.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|EL SANTUARIO,EL SANTUARIO,1.4027777777777777,243.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ENTRERRIOS,ENTRERRIOS,1.1111111111111112,66.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ENVIGADO,ENVIGADO,6.914893617021277,3216.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|FREDONIA,FREDONIA,1.0416666666666667,66.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|FRONTINO,FRONTINO,1.08,41.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GIRALDO,GIRALDO,1.0714285714285714,36.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GIRARDOTA,GIRARDOTA,1.8888888888888888,643.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GOMEZ PLATA,GOMEZ PLATA,1.25,31.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GRANADA,GRANADA,1.1111111111111112,31.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GUADALUPE,GUADALUPE,1.5,17.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GUARNE,GUARNE,2.251851851851852,819.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|GUATAPE,GUATAPE,1.2307692307692308,70.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|HELICONIA,HELICONIA,1.0,14.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|HISPANIA,HISPANIA,1.1538461538461537,31.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ITAGUI,ITAGUI,11.571428571428571,5607.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ITUANGO,ITUANGO,1.0714285714285714,37.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|JARDIN,JARDIN,1.1904761904761905,36.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|JERICO,JERICO,1.0555555555555556,35.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|LA CEJA,LA CEJA,1.7191011235955056,390.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|LA ESTRELLA,LA ESTRELLA,2.3580246913580245,935.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|LA PINTADA,LA PINTADA,1.0909090909090908,56.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|LA UNION,LA UNION,1.236842105263158,114.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|LIBORINA,LIBORINA,1.0,10.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|MACEO,MACEO,1.1333333333333333,36.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|MARINILLA,MARINILLA,2.7714285714285714,963.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|MEDELLIN CT,MEDELLIN CT,189.46354166666666,91560.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|MONTEBELLO,MONTEBELLO,1.1111111111111112,25.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|MUTATA,MUTATA,1.206896551724138,77.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|NARINO,NARINO,1.0,9.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|NECHI,NECHI,1.0,30.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|NECOCLI,NECOCLI,1.4313725490196079,158.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|OLAYA,OLAYA,1.6,11.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|PENOL,PENOL,1.3636363636363635,151.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|PUEBLORRICO,PUEBLORRICO,1.1666666666666667,15.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|PUERTO BERRIO,PUERTO BERRIO,1.4752475247524752,377.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|PUERTO NARE,PUERTO NARE,1.0833333333333333,26.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|PUERTO TRIUNFO,PUERTO TRIUNFO,1.2075471698113207,150.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|REMEDIOS,REMEDIOS,1.75,329.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|RETIRO,RETIRO,1.21875,110.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|RIONEGRO,RIONEGRO,3.1962025316455698,1264.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SABANALARGA,SABANALARGA,1.0,1.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SABANETA,SABANETA,3.1411764705882352,1364.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SALGAR,SALGAR,1.1538461538461537,75.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN ANDRES DE CUERQUIA,SAN ANDRES DE CUERQUIA,1.0,29.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN CARLOS,SAN CARLOS,1.1153846153846154,76.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN FRANCISCO,SAN FRANCISCO,1.5,10.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN JERONIMO,SAN JERONIMO,1.3488372093023255,118.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN JOSE DE LA MONTANA,SAN JOSE DE LA MONTANA,1.0,7.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN JUAN DE URABA,SAN JUAN DE URABA,1.1818181818181819,30.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN LUIS,SAN LUIS,1.1764705882352942,77.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN PEDRO,SAN PEDRO,1.6419753086419753,300.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN PEDRO DE URABA,SAN PEDRO DE URABA,1.0,61.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN RAFAEL,SAN RAFAEL,1.2352941176470589,98.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN ROQUE,SAN ROQUE,1.12,86.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SAN VICENTE,SAN VICENTE,1.4054054054054055,124.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SANTA BARBARA,SANTA BARBARA,1.0666666666666667,121.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SANTA ROSA DE OSOS,SANTA ROSA DE OSOS,1.4383561643835616,273.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SANTAFE DE ANTIOQUIA,SANTAFE DE ANTIOQUIA,1.7710843373493976,331.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SANTO DOMINGO,SANTO DOMINGO,1.1,67.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SEGOVIA,SEGOVIA,2.4782608695652173,759.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SONSON,SONSON,1.372093023255814,134.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|SOPETRAN,SOPETRAN,1.2244897959183674,155.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TAMESIS,TAMESIS,1.0769230769230769,33.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TARAZA,TARAZA,1.2307692307692308,107.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TARSO,TARSO,1.0,14.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TITIRIBI,TITIRIBI,1.0,38.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TOLEDO,TOLEDO,1.0,12.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|TURBO,TURBO,2.669491525423729,725.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|URAMITA,URAMITA,1.1666666666666667,11.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|URRAO,URRAO,1.28125,84.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|VALDIVIA,VALDIVIA,1.0769230769230769,48.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|VALPARAISO,VALPARAISO,1.0,17.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|VEGACHI,VEGACHI,1.25,111.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|VENECIA,VENECIA,1.1111111111111112,34.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|YALI,YALI,1.1538461538461537,38.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|YARUMAL,YARUMAL,1.423728813559322,210.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|YOLOMBO,YOLOMBO,1.2173913043478262,137.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|YONDO,YONDO,1.302325581395349,150.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+,,,,,,ANTIOQUIA|ZARAGOZA,ZARAGOZA,1.2340425531914894,127.0,ANTIOQUIA,,,,,,,,,,,Sin datos,Sin datos
+AGUAS FRIAS,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+ALEJANDRIA,1.7,17.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.039945071711931644,🥇 Oro,🟢 Segura
+ALEJANDRO ECHAVARRIA,1.875,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+ALFONSO LOPEZ,2.0,48.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+ALTAMIRA,2.0,50.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+ALTAVISTA,2.076923076923077,27.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04880167132226944,🥉 Bronce,🚨 Alerta Roja
+ALTOS DEL POBLADO,2.6153846153846154,34.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.061453956479894836,🧱 Cobre,🚨 Alerta Roja
+ANDALUCIA,1.375,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03230851388465059,💎 Diamante,🟢 Segura
+ANTONIO NARINO,2.2,22.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05169362221544096,🥉 Bronce,🚨 Alerta Roja
+ARANJUEZ,2.074074074074074,56.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.048734728014557124,🥉 Bronce,🚨 Alerta Roja
+AREA DE EXPANSION ALTAVISTA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+AREA DE EXPANSION BELEN,4.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+AREA DE EXPANSION CALASANZ,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+AREA DE EXPANSION PAJARITO,1.9,38.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+AREA DE EXPANSION SAN ANTONIO DE PRADO,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+AREA URBANA CGTO SAN ANTONIO DE PRADO,1.7804878048780488,73.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.041836301792984365,🥇 Oro,🟢 Segura
+AREA URBANA CGTO SAN CRISTOBAL,1.5789473684210527,30.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.037100685800555706,🥇 Oro,🟢 Segura
+ASOMADERA NO1,2.0,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+ASOMADERA NO2,1.0,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+ASOMADERA NO3,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+ASTORGA,2.380952380952381,50.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05594547858813956,🥉 Bronce,🚨 Alerta Roja
+AURES NO1,1.7777777777777777,16.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.041772624012477534,🥇 Oro,🟢 Segura
+AURES NO2,2.2857142857142856,16.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+B CERRO EL VOLADOR,1.625,13.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03818278913640525,🥇 Oro,🟢 Segura
+BARRIO CAYCEDO,1.588235294117647,54.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03731892512879427,🥇 Oro,🟢 Segura
+BARRIO COLOMBIA,6.870967741935484,426.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.1614478230482247,🧱 Cobre,🚨 Alerta Roja
+BARRIO COLON,8.683544303797468,686.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.20403811760525026,🧱 Cobre,🚨 Alerta Roja
+BARRIO CRISTOBAL,2.0,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+BARRIOS DE JESUS,1.3333333333333333,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+BATALLON CUARTA BRIGADA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+BELALCAZAR,2.2,33.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05169362221544096,🥉 Bronce,🚨 Alerta Roja
+BELEN,3.727272727272727,246.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08758010375343302,🧱 Cobre,🚨 Alerta Roja
+BELENCITO,3.3333333333333335,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07832367002339538,🧱 Cobre,🚨 Alerta Roja
+BELLO HORIZONTE,1.9285714285714286,27.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04531583765639304,🥈 Plata,🟠 Alerta Media
+BERLIN,2.25,45.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+BERMEJALLOS ALAMOS,1.4,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+BETANIA,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+BLANQUIZAL,2.0,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+BOLIVARIANA,3.2285714285714286,113.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07586206896551724,🧱 Cobre,🚨 Alerta Roja
+BOMBONA NO1,2.25,81.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+BOMBONA NO2,1.1666666666666667,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+BOSQUES DE SAN PABLO,1.3571428571428572,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03188892279523955,💎 Diamante,🟢 Segura
+BOSTON,2.8833333333333333,173.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.067749974570237,🧱 Cobre,🚨 Alerta Roja
+BOYACA,2.0,32.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+BRASILIA,1.8571428571428572,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.043637473298748855,🥇 Oro,🟢 Segura
+BUENOS AIRES,1.8620689655172413,54.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04375322256479328,🥇 Oro,🟢 Segura
+CALASANIA PARTE ALTA,2.0,22.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+CALASANZ,2.558139534883721,110.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.060108863041210416,🥉 Bronce,🚨 Alerta Roja
+CALLE NUEVA,4.523076923076923,294.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.10627919532405343,🧱 Cobre,🚨 Alerta Roja
+CAMPO ALEGRE,2.5555555555555554,23.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.060048147017936454,🥉 Bronce,🚨 Alerta Roja
+CAMPO AMOR,2.5846153846153848,168.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.060730968756601965,🥉 Bronce,🚨 Alerta Roja
+CAMPO VALDES NO1,2.0,62.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+CAMPO VALDES NO2,1.25,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+CARIBE,3.4875,279.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08194613976197741,🧱 Cobre,🚨 Alerta Roja
+CARLOS E RESTREPO,2.5849056603773586,137.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06073778939550095,🧱 Cobre,🚨 Alerta Roja
+CARPINELO,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+CASTILLA,2.5538461538461537,166.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06000798103330907,🥉 Bronce,🚨 Alerta Roja
+CASTROPOL,2.090909090909091,46.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.049130302105584375,🥉 Bronce,🚨 Alerta Roja
+CATALUNA,1.2857142857142858,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.030210558437595365,💎 Diamante,🟢 Segura
+CEMENTERIO UNIVERSAL,1.7272727272727273,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+CENTRO ADMINISTRATIVO,2.1132075471698113,112.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04965425118464311,🥉 Bronce,🚨 Alerta Roja
+CERRO NUTIBARA,1.875,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+CERRO NUTIBARA INS,2.25,63.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+CORAZON DE JESUS,2.125,85.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04993133963991456,🥉 Bronce,🚨 Alerta Roja
+CORDOBA,1.6666666666666667,45.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+CRISTO REY,2.302325581395349,99.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05409797673708937,🥉 Bronce,🚨 Alerta Roja
+CUARTA BRIGADA,1.5172413793103448,44.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.035650773941683415,🥇 Oro,🟢 Segura
+CUCARACHO,2.0,32.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+DIEGO ECHAVARRIA,1.9285714285714286,27.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04531583765639304,🥈 Plata,🟠 Alerta Media
+DOCE DE OCTUBRE NO1,1.9,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+DOCE DE OCTUBRE NO2,1.5,12.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+ECOPARQUE CERRO EL VOLADOR,1.9090909090909092,21.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04485810192249008,🥈 Plata,🟠 Alerta Media
+EDUARDO SANTOS,1.0,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL ASTILLERO,4.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+EL CASTILLO,1.2222222222222223,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.02871867900857831,💎 Diamante,🟢 Segura
+EL CHAGUALO,2.5283018867924527,134.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05940776481019801,🥉 Bronce,🚨 Alerta Roja
+EL COMPROMISO,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL CORAZON,5.0,5.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.11748550503509307,🧱 Cobre,🚨 Alerta Roja
+EL CORAZON EL MORRO,3.0,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+EL DANUBIO,2.5,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+EL DIAMANTE,2.0,52.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+EL DIAMANTE NO2,1.1111111111111112,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.02610789000779846,💎 Diamante,🟢 Segura
+EL NOGALLOS ALMENDROS,2.1,21.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04934391211473909,🥉 Bronce,🚨 Alerta Roja
+EL PESEBRE,1.75,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+EL PICACHO,1.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL PINAL,1.4,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+EL PLACER,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL PLAN,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL POBLADO,4.214285714285714,236.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09902349710100702,🧱 Cobre,🚨 Alerta Roja
+EL POMAR,1.0,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL RAIZAL,1.0,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL RINCON,1.7272727272727273,38.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+EL RODEO,1.1666666666666667,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+EL SALADO,2.4,12.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.056393042416844674,🥉 Bronce,🚨 Alerta Roja
+EL SALVADOR,1.5,33.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+EL SOCORRO,4.5,27.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.10573695453158377,🧱 Cobre,🚨 Alerta Roja
+EL TESORO,2.8181818181818183,31.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06621910283796155,🧱 Cobre,🚨 Alerta Roja
+EL TRIUNFO,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL UVITO,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+EL VELODROMO,2.3,46.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05404333231614281,🥉 Bronce,🚨 Alerta Roja
+ENCISO,1.6785714285714286,47.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03944156240463839,🥇 Oro,🟢 Segura
+ESTACION VILLA,2.627450980392157,134.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.061737481077264594,🧱 Cobre,🚨 Alerta Roja
+ESTADIO,2.6923076923076925,70.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06326142578812705,🧱 Cobre,🚨 Alerta Roja
+FAC VETERINARIA Y ZOOTECNIA UDEA,2.6666666666666665,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0626589360187163,🧱 Cobre,🚨 Alerta Roja
+FACULTAD DE MINAS U NACIONAL,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+FACULTAD DE MINAS U NAL,2.032258064516129,63.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.047752173014263634,🥈 Plata,🟠 Alerta Media
+FATIMA,2.1176470588235294,72.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04975856683839236,🥉 Bronce,🚨 Alerta Roja
+FERRINI,2.5714285714285716,18.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06042111687519073,🥉 Bronce,🚨 Alerta Roja
+FLORENCIA,2.5,25.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+FLORIDA NUEVA,2.5142857142857142,88.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05907842538907537,🥉 Bronce,🚨 Alerta Roja
+FRANCISCO ANTONIO ZEA,2.0384615384615383,53.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.047897936668153326,🥉 Bronce,🚨 Alerta Roja
+FUENTE CLARA,1.5,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+GERONA,2.0,24.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+GIRARDOT,2.5135135135135136,93.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.059060280909533275,🥉 Bronce,🚨 Alerta Roja
+GRANADA,1.7272727272727273,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+GRANIZAL,2.0,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+GUAYABAL,2.225,89.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05228104974061642,🥉 Bronce,🚨 Alerta Roja
+GUAYAQUIL,7.333333333333333,550.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.17231207405146984,🧱 Cobre,🚨 Alerta Roja
+HECTOR ABAD GOMEZ,3.1041666666666665,149.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07293891770928694,🧱 Cobre,🚨 Alerta Roja
+HOSPITAL SAN VICENTE DE PAUL,2.193548387096774,68.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05154202801539567,🥉 Bronce,🚨 Alerta Roja
+JARDIN BOTANICO,1.9333333333333333,29.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04542772861356932,🥈 Plata,🟠 Alerta Media
+JESUS NAZARENO,2.7333333333333334,164.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06422540941918421,🧱 Cobre,🚨 Alerta Roja
+JUAN PABLO II,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+JUAN XXIIII LA QUIEBRA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+KENNEDY,2.0,48.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA AGUACATALA,3.0238095238095237,127.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07105075780693723,🧱 Cobre,🚨 Alerta Roja
+LA ALPUJARRA,2.710526315789474,103.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06368951062428731,🧱 Cobre,🚨 Alerta Roja
+LA AMERICA,2.1707317073170733,89.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05100590218596724,🥉 Bronce,🚨 Alerta Roja
+LA AVANZADA,1.6666666666666667,5.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+LA CANDELARIA,22.42056074766355,2399.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.5268181805218473,🧱 Cobre,🚨 Alerta Roja
+LA CASTELLANA,1.9545454545454546,43.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.045926151968263655,🥈 Plata,🟠 Alerta Media
+LA COLINA,1.9444444444444444,70.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0456888075136473,🥈 Plata,🟠 Alerta Media
+LA CRUZ,2.0,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA CUCHILLA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LA ESPERANZA,2.0,32.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA FLORESTA,2.3513513513513513,87.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05524994020569242,🥉 Bronce,🚨 Alerta Roja
+LA FLORIDA,2.8666666666666667,86.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06735835622012003,🧱 Cobre,🚨 Alerta Roja
+LA FLORIDA SAP,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA FRANCIA,1.8,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+LA FRONTERA,1.0,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LA GLORIA,1.894736842105263,36.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.044520822960666846,🥈 Plata,🟠 Alerta Media
+LA HONDONADA,2.25,18.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+LA ISLA,3.5,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08223985352456516,🧱 Cobre,🚨 Alerta Roja
+LA LADERA,2.0,12.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA LIBERTAD,5.5,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.12923405553860237,🧱 Cobre,🚨 Alerta Roja
+LA LOMA,2.0,22.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LA LOMA DE LOS BERNAL,1.7333333333333334,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0407283084121656,🥇 Oro,🟢 Segura
+LA MANSION,1.8333333333333333,22.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04307801851286746,🥇 Oro,🟢 Segura
+LA MILAGROSA,1.4,14.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+LA MOTA,1.3529411764705883,23.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03179019548008401,💎 Diamante,🟢 Segura
+LA PALMA,2.0454545454545454,45.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0480622520598108,🥉 Bronce,🚨 Alerta Roja
+LA PALMA SC,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LA PILARICA,1.6071428571428572,45.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.037763198046994205,🥇 Oro,🟢 Segura
+LA PINUELA,2.75,33.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06461702776930119,🧱 Cobre,🚨 Alerta Roja
+LA PRADERA,1.3076923076923077,17.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.030726978239947418,💎 Diamante,🟢 Segura
+LA ROSA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LA SALLE,1.875,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+LA SIERRA,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LA VERDE,3.5,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08223985352456516,🧱 Cobre,🚨 Alerta Roja
+LALINDE,1.3333333333333333,16.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+LAS ACACIAS,2.5161290322580645,78.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05912173801765974,🥉 Bronce,🚨 Alerta Roja
+LAS BRISAS,2.1875,35.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05139990845285322,🥉 Bronce,🚨 Alerta Roja
+LAS ESMERALDAS,3.0,30.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+LAS ESTANCIAS,1.5,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+LAS GRANJAS,1.75,35.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+LAS INDEPENDENCIAS,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LAS LOMAS NO1,2.235294117647059,38.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05252293166274749,🥉 Bronce,🚨 Alerta Roja
+LAS LOMAS NO2,3.25,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0763655782728105,🧱 Cobre,🚨 Alerta Roja
+LAS MERCEDES,1.5714285714285714,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03692401586817211,🥇 Oro,🟢 Segura
+LAS PALMAS,3.1538461538461537,82.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07410624163752025,🧱 Cobre,🚨 Alerta Roja
+LAS PALMAS SE,1.9,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+LAS PLAYAS,1.875,30.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+LAS PLAYAS SC,2.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LAS VIOLETAS,1.5294117647058822,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.035936742716616704,🥇 Oro,🟢 Segura
+LAURELES,2.5106382978723403,118.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.058992721677195666,🥉 Bronce,🚨 Alerta Roja
+LLANADITAS,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+LOPEZ DE MESA,1.7857142857142858,50.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04195910894110467,🥇 Oro,🟢 Segura
+LORENA,2.2857142857142856,80.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+LORETO,1.1538461538461537,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.027112039623483016,💎 Diamante,🟢 Segura
+LOS ALCAZARES,1.6666666666666667,30.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+LOS ALPES,2.3333333333333335,56.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.054826569016376774,🥉 Bronce,🚨 Alerta Roja
+LOS ANGELES,2.1578947368421053,41.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0507042705940928,🥉 Bronce,🚨 Alerta Roja
+LOS BALSOS NO1,1.2857142857142858,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.030210558437595365,💎 Diamante,🟢 Segura
+LOS BALSOS NO2,2.111111111111111,38.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04960499101481708,🥉 Bronce,🚨 Alerta Roja
+LOS CERROS EL VERGEL,2.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+LOS COLORES,2.0285714285714285,71.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0476655477570949,🥈 Plata,🟠 Alerta Media
+LOS CONQUISTADORES,2.8793103448275863,167.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0676554460029674,🧱 Cobre,🚨 Alerta Roja
+LOS MANGOS,1.7,17.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.039945071711931644,🥇 Oro,🟢 Segura
+LOS NARANJOS,1.4545454545454546,16.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03417760146475435,🥇 Oro,🟢 Segura
+LOS PINOS,2.0,52.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+MANILA,3.6862745098039214,188.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08661676449646077,🧱 Cobre,🚨 Alerta Roja
+MANRIQUE CENTRAL NO1,1.9428571428571428,68.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04565151052792188,🥈 Plata,🟠 Alerta Media
+MANRIQUE CENTRAL NO2,1.826086956521739,42.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04290774966499051,🥇 Oro,🟢 Segura
+MANRIQUE ORIENTAL,1.9545454545454546,43.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.045926151968263655,🥈 Plata,🟠 Alerta Media
+MARIA CANOCARAMBOLAS,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+MAZO,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+MEDIA LUNA,1.5,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+METROPOLITANO,2.3333333333333335,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.054826569016376774,🥉 Bronce,🚨 Alerta Roja
+MIRADOR DEL DOCE,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+MIRAFLORES,1.5833333333333333,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0372037432611128,🥇 Oro,🟢 Segura
+MIRANDA,1.85,37.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04346963686298444,🥇 Oro,🟢 Segura
+MIRAVALLE,1.3333333333333333,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+MONTECLARO,2.0,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+MORAVIA,1.75,63.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+MOSCU NO1,1.2,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.028196521208422337,💎 Diamante,🟢 Segura
+MOSCU NO2,3.6,18.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08458956362526701,🧱 Cobre,🚨 Alerta Roja
+NARANJAL,3.1454545454545455,173.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07390906316753128,🧱 Cobre,🚨 Alerta Roja
+NUEVA VILLA DE LA IGUANA,1.25,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+NUEVA VILLA DEL ABURRA,1.0,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+NUEVOS CONQUISTADORES,2.0,8.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+OCHO DE MARZO,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+OLEODUCTO,1.25,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+PABLO VI,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+PAJARITO,1.8333333333333333,22.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04307801851286746,🥇 Oro,🟢 Segura
+PAJARITO SC,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+PALENQUE,1.5555555555555556,28.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03655104601091785,🥇 Oro,🟢 Segura
+PALERMO,1.0,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+PALMITAS SECTOR CENTRAL,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+PARQUE JUAN PABLO II,2.1724137931034484,63.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05104542632559217,🥉 Bronce,🚨 Alerta Roja
+PARQUE NORTE,3.212121212121212,106.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07547553656799919,🧱 Cobre,🚨 Alerta Roja
+PATIO BONITO,7.041666666666667,507.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.16545875292442275,🧱 Cobre,🚨 Alerta Roja
+PEDREGAL,1.9166666666666667,46.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04503611026345235,🥈 Plata,🟠 Alerta Media
+PEDREGAL ALTO,2.25,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+PERPETUO SOCORRO,4.0476190476190474,255.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09510731359983725,🧱 Cobre,🚨 Alerta Roja
+PICACHITO,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+PICACHO,2.0,36.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+PIEDRAS BLANCAS MATASANO,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+PLAYON DE LOS COMUNEROS,1.3333333333333333,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+PLAZA DE FERIAS,2.176470588235294,37.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.051140749250569925,🥉 Bronce,🚨 Alerta Roja
+POPULAR,1.6666666666666667,20.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+POTRERITO,1.5,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+PRADO,4.258426966292135,379.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.10006068855797816,🧱 Cobre,🚨 Alerta Roja
+PROGRESO,2.0714285714285716,87.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04867256637168142,🥉 Bronce,🚨 Alerta Roja
+PROGRESO NO2,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+ROBLEDO,2.5121951219512195,103.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05902930252982725,🥉 Bronce,🚨 Alerta Roja
+ROSALES,2.0,78.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+SAN ANTONIO,1.5,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+SAN BENITO,4.395348837209302,378.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.10327795558898879,🧱 Cobre,🚨 Alerta Roja
+SAN BERNARDO,1.6666666666666667,25.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+SAN DIEGO,4.0,208.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+SAN GERMAN,1.9565217391304348,45.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.045972588926775554,🥈 Plata,🟠 Alerta Media
+SAN ISIDRO,1.9230769230769231,25.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04518673270580503,🥈 Plata,🟠 Alerta Media
+SAN JAVIER NO1,1.4444444444444444,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.033940257010137996,🥇 Oro,🟢 Segura
+SAN JAVIER NO2,1.8,36.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+SAN JOAQUIN,2.5757575757575757,85.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06052283592716916,🥉 Bronce,🚨 Alerta Roja
+SAN JOSE DEL MANZANILLO,2.0,4.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+SAN LUCAS,1.75,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+SAN MARTIN DE PORRES,2.066666666666667,31.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04856067541450514,🥉 Bronce,🚨 Alerta Roja
+SAN MIGUEL,1.7083333333333333,41.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04014088088699013,🥇 Oro,🟢 Segura
+SAN PABLO,1.4,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+SAN PEDRO,2.0526315789473686,78.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04823089154072242,🥉 Bronce,🚨 Alerta Roja
+SANTA CRUZ,2.2222222222222223,20.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05221578001559692,🥉 Bronce,🚨 Alerta Roja
+SANTA ELENA SECTOR CENTRAL,1.5714285714285714,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03692401586817211,🥇 Oro,🟢 Segura
+SANTA FE,3.2096774193548385,199.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07541811452252749,🧱 Cobre,🚨 Alerta Roja
+SANTA INES,1.2222222222222223,11.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.02871867900857831,💎 Diamante,🟢 Segura
+SANTA LUCIA,1.7272727272727273,19.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+SANTA MARGARITA,3.3333333333333335,20.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07832367002339538,🧱 Cobre,🚨 Alerta Roja
+SANTA MARIA DE LOS ANGELES,3.963636363636364,218.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.09313396399145561,🧱 Cobre,🚨 Alerta Roja
+SANTA MONICA,1.9166666666666667,23.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04503611026345235,🥈 Plata,🟠 Alerta Media
+SANTA ROSA DE LIMA,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+SANTA TERESITA,1.1666666666666667,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+SANTANDER,2.5714285714285716,18.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06042111687519073,🥉 Bronce,🚨 Alerta Roja
+SANTO DOMINGO SAVIO NO1,1.5625,25.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.036714220323466586,🥇 Oro,🟢 Segura
+SANTO DOMINGO SAVIO NO2,1.2,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.028196521208422337,💎 Diamante,🟢 Segura
+SEVILLA,3.3620689655172415,195.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0789988740753212,🧱 Cobre,🚨 Alerta Roja
+SIMON BOLIVAR,2.0,18.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+SIN DATO,2.0,24.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+SUCRE,2.2857142857142856,32.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+SURAMERICANA,2.2444444444444445,101.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.052737937815752894,🥉 Bronce,🚨 Alerta Roja
+TEJELO,1.4285714285714286,10.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.033567287152883735,🥇 Oro,🟢 Segura
+TENCHE,2.7586206896551726,80.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.06481958898487894,🧱 Cobre,🚨 Alerta Roja
+TERMINAL DE TRANSPORTE,6.057971014492754,418.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.14234475682512726,🧱 Cobre,🚨 Alerta Roja
+TOSCANA,1.588235294117647,27.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03731892512879427,🥇 Oro,🟢 Segura
+TRAVESIAS,2.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+TRECE DE NOVIEMBRE,1.0,2.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+TRICENTENARIO,2.125,102.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04993133963991456,🥉 Bronce,🚨 Alerta Roja
+TRINIDAD,2.324324324324324,86.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.05461488342171894,🥉 Bronce,🚨 Alerta Roja
+UD ATANASIO GIRARDOT,2.257142857142857,79.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0530363137015563,🥉 Bronce,🚨 Alerta Roja
+UNIVERSIDAD DE ANTIOQUIA,1.975,79.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04640677448886177,🥈 Plata,🟠 Alerta Media
+UNIVERSIDAD NACIONAL,2.0952380952380953,44.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04923202115756282,🥉 Bronce,🚨 Alerta Roja
+UPB,1.625,13.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03818278913640525,🥇 Oro,🟢 Segura
+VEINTE DE JULIO,1.6666666666666667,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+VERSALLES NO1,2.5,15.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+VERSALLES NO2,2.0,6.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+VILLA CARLOTA,2.6363636363636362,116.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.061946902654867256,🧱 Cobre,🚨 Alerta Roja
+VILLA DEL SOCORRO,1.4,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+VILLA FLORA,2.0,20.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+VILLA GUADALUPE,1.8,9.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+VILLA HERMOSA,1.5294117647058822,26.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.035936742716616704,🥇 Oro,🟢 Segura
+VILLA LILLIAM,1.0,1.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+VILLA NIZA,1.75,7.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+VILLA NUEVA,3.5076923076923077,228.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.08242060045538838,🧱 Cobre,🚨 Alerta Roja
+VILLA TURBAY,3.0,3.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+VILLATINA,1.7058823529411764,29.0,seguridad.nombre_barrio,,,SIN_INFO,,,,,,,,,,,,,,0.0400832899531494,🥇 Oro,🟢 Segura
+,1.5625,25.0,seguridad.codigo_barrio,0101,,SIN_INFO,,,,,,,,,,,,,,0.036714220323466586,🥇 Oro,🟢 Segura
+,1.2,6.0,seguridad.codigo_barrio,0102,,SIN_INFO,,,,,,,,,,,,,,0.028196521208422337,💎 Diamante,🟢 Segura
+,1.6666666666666667,20.0,seguridad.codigo_barrio,0103,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,2.0,6.0,seguridad.codigo_barrio,0104,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,3.6,18.0,seguridad.codigo_barrio,0105,,SIN_INFO,,,,,,,,,,,,,,0.08458956362526701,🧱 Cobre,🚨 Alerta Roja
+,1.8,9.0,seguridad.codigo_barrio,0106,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+,1.4,7.0,seguridad.codigo_barrio,0107,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0108,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.6666666666666667,5.0,seguridad.codigo_barrio,0111,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0112,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,3.5,7.0,seguridad.codigo_barrio,0201,,SIN_INFO,,,,,,,,,,,,,,0.08223985352456516,🧱 Cobre,🚨 Alerta Roja
+,1.3333333333333333,4.0,seguridad.codigo_barrio,0202,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0203,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,3.0,seguridad.codigo_barrio,0204,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.8,9.0,seguridad.codigo_barrio,0205,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+,1.375,11.0,seguridad.codigo_barrio,0206,,SIN_INFO,,,,,,,,,,,,,,0.03230851388465059,💎 Diamante,🟢 Segura
+,1.4,7.0,seguridad.codigo_barrio,0207,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+,1.75,7.0,seguridad.codigo_barrio,0208,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+,1.2,6.0,seguridad.codigo_barrio,0209,,SIN_INFO,,,,,,,,,,,,,,0.028196521208422337,💎 Diamante,🟢 Segura
+,2.2222222222222223,20.0,seguridad.codigo_barrio,0210,,SIN_INFO,,,,,,,,,,,,,,0.05221578001559692,🥉 Bronce,🚨 Alerta Roja
+,1.0,1.0,seguridad.codigo_barrio,0211,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.875,15.0,seguridad.codigo_barrio,0301,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+,1.75,35.0,seguridad.codigo_barrio,0302,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+,1.25,15.0,seguridad.codigo_barrio,0303,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+,1.2222222222222223,11.0,seguridad.codigo_barrio,0304,,SIN_INFO,,,,,,,,,,,,,,0.02871867900857831,💎 Diamante,🟢 Segura
+,1.0,7.0,seguridad.codigo_barrio,0305,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,8.0,seguridad.codigo_barrio,0306,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.826086956521739,42.0,seguridad.codigo_barrio,0307,,SIN_INFO,,,,,,,,,,,,,,0.04290774966499051,🥇 Oro,🟢 Segura
+,1.9545454545454546,43.0,seguridad.codigo_barrio,0308,,SIN_INFO,,,,,,,,,,,,,,0.045926151968263655,🥈 Plata,🟠 Alerta Media
+,2.5,15.0,seguridad.codigo_barrio,0309,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+,2.0,6.0,seguridad.codigo_barrio,0310,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,6.0,seguridad.codigo_barrio,0311,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,2.0,seguridad.codigo_barrio,0313,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.25,45.0,seguridad.codigo_barrio,0401,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+,1.9230769230769231,25.0,seguridad.codigo_barrio,0402,,SIN_INFO,,,,,,,,,,,,,,0.04518673270580503,🥈 Plata,🟠 Alerta Media
+,1.0,6.0,seguridad.codigo_barrio,0403,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.4,7.0,seguridad.codigo_barrio,0404,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+,1.75,63.0,seguridad.codigo_barrio,0405,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+,3.3620689655172415,195.0,seguridad.codigo_barrio,0407,,SIN_INFO,,,,,,,,,,,,,,0.0789988740753212,🧱 Cobre,🚨 Alerta Roja
+,2.0526315789473686,78.0,seguridad.codigo_barrio,0408,,SIN_INFO,,,,,,,,,,,,,,0.04823089154072242,🥉 Bronce,🚨 Alerta Roja
+,1.9428571428571428,68.0,seguridad.codigo_barrio,0409,,SIN_INFO,,,,,,,,,,,,,,0.04565151052792188,🥈 Plata,🟠 Alerta Media
+,2.0,62.0,seguridad.codigo_barrio,0410,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,3.0,30.0,seguridad.codigo_barrio,0411,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+,2.75,33.0,seguridad.codigo_barrio,0412,,SIN_INFO,,,,,,,,,,,,,,0.06461702776930119,🧱 Cobre,🚨 Alerta Roja
+,2.074074074074074,56.0,seguridad.codigo_barrio,0413,,SIN_INFO,,,,,,,,,,,,,,0.048734728014557124,🥉 Bronce,🚨 Alerta Roja
+,1.8571428571428572,26.0,seguridad.codigo_barrio,0414,,SIN_INFO,,,,,,,,,,,,,,0.043637473298748855,🥇 Oro,🟢 Segura
+,1.85,37.0,seguridad.codigo_barrio,0415,,SIN_INFO,,,,,,,,,,,,,,0.04346963686298444,🥇 Oro,🟢 Segura
+,1.588235294117647,27.0,seguridad.codigo_barrio,0501,,SIN_INFO,,,,,,,,,,,,,,0.03731892512879427,🥇 Oro,🟢 Segura
+,2.1875,35.0,seguridad.codigo_barrio,0502,,SIN_INFO,,,,,,,,,,,,,,0.05139990845285322,🥉 Bronce,🚨 Alerta Roja
+,2.5,25.0,seguridad.codigo_barrio,0503,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+,1.4285714285714286,10.0,seguridad.codigo_barrio,0504,,SIN_INFO,,,,,,,,,,,,,,0.033567287152883735,🥇 Oro,🟢 Segura
+,2.0,32.0,seguridad.codigo_barrio,0505,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,3.1041666666666665,149.0,seguridad.codigo_barrio,0507,,SIN_INFO,,,,,,,,,,,,,,0.07293891770928694,🧱 Cobre,🚨 Alerta Roja
+,2.2,33.0,seguridad.codigo_barrio,0508,,SIN_INFO,,,,,,,,,,,,,,0.05169362221544096,🥉 Bronce,🚨 Alerta Roja
+,2.5135135135135136,93.0,seguridad.codigo_barrio,0509,,SIN_INFO,,,,,,,,,,,,,,0.059060280909533275,🥉 Bronce,🚨 Alerta Roja
+,2.125,102.0,seguridad.codigo_barrio,0510,,SIN_INFO,,,,,,,,,,,,,,0.04993133963991456,🥉 Bronce,🚨 Alerta Roja
+,2.5538461538461537,166.0,seguridad.codigo_barrio,0511,,SIN_INFO,,,,,,,,,,,,,,0.06000798103330907,🥉 Bronce,🚨 Alerta Roja
+,2.0384615384615383,53.0,seguridad.codigo_barrio,0513,,SIN_INFO,,,,,,,,,,,,,,0.047897936668153326,🥉 Bronce,🚨 Alerta Roja
+,2.0,48.0,seguridad.codigo_barrio,0514,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,3.4875,279.0,seguridad.codigo_barrio,0517,,SIN_INFO,,,,,,,,,,,,,,0.08194613976197741,🧱 Cobre,🚨 Alerta Roja
+,2.0714285714285716,87.0,seguridad.codigo_barrio,0519,,SIN_INFO,,,,,,,,,,,,,,0.04867256637168142,🥉 Bronce,🚨 Alerta Roja
+,2.5714285714285716,18.0,seguridad.codigo_barrio,0601,,SIN_INFO,,,,,,,,,,,,,,0.06042111687519073,🥉 Bronce,🚨 Alerta Roja
+,1.9,19.0,seguridad.codigo_barrio,0602,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+,1.5,12.0,seguridad.codigo_barrio,0603,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,1.9166666666666667,46.0,seguridad.codigo_barrio,0604,,SIN_INFO,,,,,,,,,,,,,,0.04503611026345235,🥈 Plata,🟠 Alerta Media
+,2.0,32.0,seguridad.codigo_barrio,0605,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.066666666666667,31.0,seguridad.codigo_barrio,0606,,SIN_INFO,,,,,,,,,,,,,,0.04856067541450514,🥉 Bronce,🚨 Alerta Roja
+,2.0,48.0,seguridad.codigo_barrio,0607,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,36.0,seguridad.codigo_barrio,0608,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,2.0,seguridad.codigo_barrio,0609,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,0610,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0611,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0612,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.625,13.0,seguridad.codigo_barrio,0702,,SIN_INFO,,,,,,,,,,,,,,0.03818278913640525,🥇 Oro,🟢 Segura
+,1.9565217391304348,45.0,seguridad.codigo_barrio,0703,,SIN_INFO,,,,,,,,,,,,,,0.045972588926775554,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,0705,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.6071428571428572,45.0,seguridad.codigo_barrio,0706,,SIN_INFO,,,,,,,,,,,,,,0.037763198046994205,🥇 Oro,🟢 Segura
+,1.3571428571428572,19.0,seguridad.codigo_barrio,0707,,SIN_INFO,,,,,,,,,,,,,,0.03188892279523955,💎 Diamante,🟢 Segura
+,2.0,50.0,seguridad.codigo_barrio,0708,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.6666666666666667,45.0,seguridad.codigo_barrio,0709,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,1.7857142857142858,50.0,seguridad.codigo_barrio,0710,,SIN_INFO,,,,,,,,,,,,,,0.04195910894110467,🥇 Oro,🟢 Segura
+,2.0,52.0,seguridad.codigo_barrio,0711,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.2857142857142856,16.0,seguridad.codigo_barrio,0712,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+,1.7777777777777777,16.0,seguridad.codigo_barrio,0713,,SIN_INFO,,,,,,,,,,,,,,0.041772624012477534,🥇 Oro,🟢 Segura
+,1.9285714285714286,27.0,seguridad.codigo_barrio,0714,,SIN_INFO,,,,,,,,,,,,,,0.04531583765639304,🥈 Plata,🟠 Alerta Media
+,2.0,20.0,seguridad.codigo_barrio,0715,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.5555555555555556,28.0,seguridad.codigo_barrio,0716,,SIN_INFO,,,,,,,,,,,,,,0.03655104601091785,🥇 Oro,🟢 Segura
+,2.5121951219512195,103.0,seguridad.codigo_barrio,0717,,SIN_INFO,,,,,,,,,,,,,,0.05902930252982725,🥉 Bronce,🚨 Alerta Roja
+,2.0,32.0,seguridad.codigo_barrio,0718,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.5,6.0,seguridad.codigo_barrio,0719,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,3.3333333333333335,20.0,seguridad.codigo_barrio,0720,,SIN_INFO,,,,,,,,,,,,,,0.07832367002339538,🧱 Cobre,🚨 Alerta Roja
+,1.8333333333333333,22.0,seguridad.codigo_barrio,0723,,SIN_INFO,,,,,,,,,,,,,,0.04307801851286746,🥇 Oro,🟢 Segura
+,2.0,10.0,seguridad.codigo_barrio,0724,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.25,10.0,seguridad.codigo_barrio,0725,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+,1.5294117647058822,26.0,seguridad.codigo_barrio,0801,,SIN_INFO,,,,,,,,,,,,,,0.035936742716616704,🥇 Oro,🟢 Segura
+,1.8333333333333333,22.0,seguridad.codigo_barrio,0802,,SIN_INFO,,,,,,,,,,,,,,0.04307801851286746,🥇 Oro,🟢 Segura
+,1.7083333333333333,41.0,seguridad.codigo_barrio,0803,,SIN_INFO,,,,,,,,,,,,,,0.04014088088699013,🥇 Oro,🟢 Segura
+,2.0,12.0,seguridad.codigo_barrio,0804,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,0806,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.7,17.0,seguridad.codigo_barrio,0807,,SIN_INFO,,,,,,,,,,,,,,0.039945071711931644,🥇 Oro,🟢 Segura
+,1.6785714285714286,47.0,seguridad.codigo_barrio,0808,,SIN_INFO,,,,,,,,,,,,,,0.03944156240463839,🥇 Oro,🟢 Segura
+,2.2857142857142856,32.0,seguridad.codigo_barrio,0809,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+,1.4,7.0,seguridad.codigo_barrio,0810,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+,1.0,2.0,seguridad.codigo_barrio,0811,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,5.5,11.0,seguridad.codigo_barrio,0812,,SIN_INFO,,,,,,,,,,,,,,0.12923405553860237,🧱 Cobre,🚨 Alerta Roja
+,1.7058823529411764,29.0,seguridad.codigo_barrio,0813,,SIN_INFO,,,,,,,,,,,,,,0.0400832899531494,🥇 Oro,🟢 Segura
+,1.5,3.0,seguridad.codigo_barrio,0814,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,1.5,3.0,seguridad.codigo_barrio,0815,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,3.0,3.0,seguridad.codigo_barrio,0816,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+,1.0,1.0,seguridad.codigo_barrio,0817,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0819,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.0,2.0,seguridad.codigo_barrio,0901,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.3333333333333333,4.0,seguridad.codigo_barrio,0902,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+,1.1666666666666667,7.0,seguridad.codigo_barrio,0903,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+,2.0,4.0,seguridad.codigo_barrio,0904,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.875,15.0,seguridad.codigo_barrio,0905,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+,1.588235294117647,54.0,seguridad.codigo_barrio,0906,,SIN_INFO,,,,,,,,,,,,,,0.03731892512879427,🥇 Oro,🟢 Segura
+,1.8620689655172413,54.0,seguridad.codigo_barrio,0907,,SIN_INFO,,,,,,,,,,,,,,0.04375322256479328,🥇 Oro,🟢 Segura
+,1.5833333333333333,19.0,seguridad.codigo_barrio,0908,,SIN_INFO,,,,,,,,,,,,,,0.0372037432611128,🥇 Oro,🟢 Segura
+,1.2857142857142858,9.0,seguridad.codigo_barrio,0909,,SIN_INFO,,,,,,,,,,,,,,0.030210558437595365,💎 Diamante,🟢 Segura
+,1.4,14.0,seguridad.codigo_barrio,0910,,SIN_INFO,,,,,,,,,,,,,,0.03289594140982606,💎 Diamante,🟢 Segura
+,2.0,24.0,seguridad.codigo_barrio,0911,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.5,33.0,seguridad.codigo_barrio,0912,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,1.1538461538461537,15.0,seguridad.codigo_barrio,0913,,SIN_INFO,,,,,,,,,,,,,,0.027112039623483016,💎 Diamante,🟢 Segura
+,2.0,10.0,seguridad.codigo_barrio,0914,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,8.0,seguridad.codigo_barrio,0915,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,0916,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.0,2.0,seguridad.codigo_barrio,0917,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,4.258426966292135,379.0,seguridad.codigo_barrio,1001,,SIN_INFO,,,,,,,,,,,,,,0.10006068855797816,🧱 Cobre,🚨 Alerta Roja
+,2.7333333333333334,164.0,seguridad.codigo_barrio,1003,,SIN_INFO,,,,,,,,,,,,,,0.06422540941918421,🧱 Cobre,🚨 Alerta Roja
+,2.5283018867924527,134.0,seguridad.codigo_barrio,1004,,SIN_INFO,,,,,,,,,,,,,,0.05940776481019801,🥉 Bronce,🚨 Alerta Roja
+,2.627450980392157,134.0,seguridad.codigo_barrio,1005,,SIN_INFO,,,,,,,,,,,,,,0.061737481077264594,🧱 Cobre,🚨 Alerta Roja
+,4.395348837209302,378.0,seguridad.codigo_barrio,1006,,SIN_INFO,,,,,,,,,,,,,,0.10327795558898879,🧱 Cobre,🚨 Alerta Roja
+,7.333333333333333,550.0,seguridad.codigo_barrio,1007,,SIN_INFO,,,,,,,,,,,,,,0.17231207405146984,🧱 Cobre,🚨 Alerta Roja
+,2.125,85.0,seguridad.codigo_barrio,1008,,SIN_INFO,,,,,,,,,,,,,,0.04993133963991456,🥉 Bronce,🚨 Alerta Roja
+,4.523076923076923,294.0,seguridad.codigo_barrio,1011,,SIN_INFO,,,,,,,,,,,,,,0.10627919532405343,🧱 Cobre,🚨 Alerta Roja
+,4.0476190476190474,255.0,seguridad.codigo_barrio,1012,,SIN_INFO,,,,,,,,,,,,,,0.09510731359983725,🧱 Cobre,🚨 Alerta Roja
+,8.683544303797468,686.0,seguridad.codigo_barrio,1013,,SIN_INFO,,,,,,,,,,,,,,0.20403811760525026,🧱 Cobre,🚨 Alerta Roja
+,3.1538461538461537,82.0,seguridad.codigo_barrio,1014,,SIN_INFO,,,,,,,,,,,,,,0.07410624163752025,🧱 Cobre,🚨 Alerta Roja
+,2.25,81.0,seguridad.codigo_barrio,1015,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+,2.8833333333333333,173.0,seguridad.codigo_barrio,1016,,SIN_INFO,,,,,,,,,,,,,,0.067749974570237,🧱 Cobre,🚨 Alerta Roja
+,2.1578947368421053,41.0,seguridad.codigo_barrio,1017,,SIN_INFO,,,,,,,,,,,,,,0.0507042705940928,🥉 Bronce,🚨 Alerta Roja
+,3.5076923076923077,228.0,seguridad.codigo_barrio,1018,,SIN_INFO,,,,,,,,,,,,,,0.08242060045538838,🧱 Cobre,🚨 Alerta Roja
+,22.42056074766355,2399.0,seguridad.codigo_barrio,1019,,SIN_INFO,,,,,,,,,,,,,,0.5268181805218473,🧱 Cobre,🚨 Alerta Roja
+,4.0,208.0,seguridad.codigo_barrio,1020,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+,2.5849056603773586,137.0,seguridad.codigo_barrio,1101,,SIN_INFO,,,,,,,,,,,,,,0.06073778939550095,🧱 Cobre,🚨 Alerta Roja
+,2.2444444444444445,101.0,seguridad.codigo_barrio,1102,,SIN_INFO,,,,,,,,,,,,,,0.052737937815752894,🥉 Bronce,🚨 Alerta Roja
+,3.1454545454545455,173.0,seguridad.codigo_barrio,1103,,SIN_INFO,,,,,,,,,,,,,,0.07390906316753128,🧱 Cobre,🚨 Alerta Roja
+,2.5757575757575757,85.0,seguridad.codigo_barrio,1104,,SIN_INFO,,,,,,,,,,,,,,0.06052283592716916,🥉 Bronce,🚨 Alerta Roja
+,2.8793103448275863,167.0,seguridad.codigo_barrio,1105,,SIN_INFO,,,,,,,,,,,,,,0.0676554460029674,🧱 Cobre,🚨 Alerta Roja
+,3.2285714285714286,113.0,seguridad.codigo_barrio,1107,,SIN_INFO,,,,,,,,,,,,,,0.07586206896551724,🧱 Cobre,🚨 Alerta Roja
+,2.5106382978723403,118.0,seguridad.codigo_barrio,1108,,SIN_INFO,,,,,,,,,,,,,,0.058992721677195666,🥉 Bronce,🚨 Alerta Roja
+,2.5161290322580645,78.0,seguridad.codigo_barrio,1109,,SIN_INFO,,,,,,,,,,,,,,0.05912173801765974,🥉 Bronce,🚨 Alerta Roja
+,1.9545454545454546,43.0,seguridad.codigo_barrio,1110,,SIN_INFO,,,,,,,,,,,,,,0.045926151968263655,🥈 Plata,🟠 Alerta Media
+,2.2857142857142856,80.0,seguridad.codigo_barrio,1111,,SIN_INFO,,,,,,,,,,,,,,0.053707659444613975,🥉 Bronce,🚨 Alerta Roja
+,2.3,46.0,seguridad.codigo_barrio,1112,,SIN_INFO,,,,,,,,,,,,,,0.05404333231614281,🥉 Bronce,🚨 Alerta Roja
+,2.6923076923076925,70.0,seguridad.codigo_barrio,1113,,SIN_INFO,,,,,,,,,,,,,,0.06326142578812705,🧱 Cobre,🚨 Alerta Roja
+,2.0285714285714285,71.0,seguridad.codigo_barrio,1114,,SIN_INFO,,,,,,,,,,,,,,0.0476655477570949,🥈 Plata,🟠 Alerta Media
+,1.5172413793103448,44.0,seguridad.codigo_barrio,1115,,SIN_INFO,,,,,,,,,,,,,,0.035650773941683415,🥇 Oro,🟢 Segura
+,2.5142857142857142,88.0,seguridad.codigo_barrio,1117,,SIN_INFO,,,,,,,,,,,,,,0.05907842538907537,🥉 Bronce,🚨 Alerta Roja
+,2.5714285714285716,18.0,seguridad.codigo_barrio,1201,,SIN_INFO,,,,,,,,,,,,,,0.06042111687519073,🥉 Bronce,🚨 Alerta Roja
+,2.558139534883721,110.0,seguridad.codigo_barrio,1202,,SIN_INFO,,,,,,,,,,,,,,0.060108863041210416,🥉 Bronce,🚨 Alerta Roja
+,2.0,52.0,seguridad.codigo_barrio,1203,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.1707317073170733,89.0,seguridad.codigo_barrio,1204,,SIN_INFO,,,,,,,,,,,,,,0.05100590218596724,🥉 Bronce,🚨 Alerta Roja
+,2.3513513513513513,87.0,seguridad.codigo_barrio,1205,,SIN_INFO,,,,,,,,,,,,,,0.05524994020569242,🥉 Bronce,🚨 Alerta Roja
+,1.7272727272727273,19.0,seguridad.codigo_barrio,1206,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+,2.5,10.0,seguridad.codigo_barrio,1207,,SIN_INFO,,,,,,,,,,,,,,0.058742752517546536,🥉 Bronce,🚨 Alerta Roja
+,2.5555555555555554,23.0,seguridad.codigo_barrio,1208,,SIN_INFO,,,,,,,,,,,,,,0.060048147017936454,🥉 Bronce,🚨 Alerta Roja
+,1.9166666666666667,23.0,seguridad.codigo_barrio,1209,,SIN_INFO,,,,,,,,,,,,,,0.04503611026345235,🥈 Plata,🟠 Alerta Media
+,2.0,10.0,seguridad.codigo_barrio,1210,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,18.0,seguridad.codigo_barrio,1211,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.1666666666666667,7.0,seguridad.codigo_barrio,1212,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+,2.0,22.0,seguridad.codigo_barrio,1213,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.75,7.0,seguridad.codigo_barrio,1301,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+,2.0,8.0,seguridad.codigo_barrio,1302,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,2.0,seguridad.codigo_barrio,1303,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.6666666666666667,30.0,seguridad.codigo_barrio,1304,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,2.3333333333333335,7.0,seguridad.codigo_barrio,1305,,SIN_INFO,,,,,,,,,,,,,,0.054826569016376774,🥉 Bronce,🚨 Alerta Roja
+,1.3076923076923077,17.0,seguridad.codigo_barrio,1306,,SIN_INFO,,,,,,,,,,,,,,0.030726978239947418,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,1307,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.8,36.0,seguridad.codigo_barrio,1308,,SIN_INFO,,,,,,,,,,,,,,0.042294781812633506,🥇 Oro,🟢 Segura
+,1.4444444444444444,26.0,seguridad.codigo_barrio,1309,,SIN_INFO,,,,,,,,,,,,,,0.033940257010137996,🥇 Oro,🟢 Segura
+,1.6666666666666667,15.0,seguridad.codigo_barrio,1310,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,3.3333333333333335,10.0,seguridad.codigo_barrio,1311,,SIN_INFO,,,,,,,,,,,,,,0.07832367002339538,🧱 Cobre,🚨 Alerta Roja
+,1.0,2.0,seguridad.codigo_barrio,1312,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,5.0,5.0,seguridad.codigo_barrio,1313,,SIN_INFO,,,,,,,,,,,,,,0.11748550503509307,🧱 Cobre,🚨 Alerta Roja
+,2.0,2.0,seguridad.codigo_barrio,1314,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,8.0,seguridad.codigo_barrio,1315,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.4,12.0,seguridad.codigo_barrio,1316,,SIN_INFO,,,,,,,,,,,,,,0.056393042416844674,🥉 Bronce,🚨 Alerta Roja
+,1.0,3.0,seguridad.codigo_barrio,1317,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.2,22.0,seguridad.codigo_barrio,1318,,SIN_INFO,,,,,,,,,,,,,,0.05169362221544096,🥉 Bronce,🚨 Alerta Roja
+,4.5,27.0,seguridad.codigo_barrio,1319,,SIN_INFO,,,,,,,,,,,,,,0.10573695453158377,🧱 Cobre,🚨 Alerta Roja
+,6.870967741935484,426.0,seguridad.codigo_barrio,1401,,SIN_INFO,,,,,,,,,,,,,,0.1614478230482247,🧱 Cobre,🚨 Alerta Roja
+,2.6363636363636362,116.0,seguridad.codigo_barrio,1403,,SIN_INFO,,,,,,,,,,,,,,0.061946902654867256,🧱 Cobre,🚨 Alerta Roja
+,2.090909090909091,46.0,seguridad.codigo_barrio,1404,,SIN_INFO,,,,,,,,,,,,,,0.049130302105584375,🥉 Bronce,🚨 Alerta Roja
+,1.3333333333333333,16.0,seguridad.codigo_barrio,1405,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+,2.235294117647059,38.0,seguridad.codigo_barrio,1406,,SIN_INFO,,,,,,,,,,,,,,0.05252293166274749,🥉 Bronce,🚨 Alerta Roja
+,3.25,26.0,seguridad.codigo_barrio,1407,,SIN_INFO,,,,,,,,,,,,,,0.0763655782728105,🧱 Cobre,🚨 Alerta Roja
+,2.6153846153846154,34.0,seguridad.codigo_barrio,1408,,SIN_INFO,,,,,,,,,,,,,,0.061453956479894836,🧱 Cobre,🚨 Alerta Roja
+,2.8181818181818183,31.0,seguridad.codigo_barrio,1409,,SIN_INFO,,,,,,,,,,,,,,0.06621910283796155,🧱 Cobre,🚨 Alerta Roja
+,1.4545454545454546,16.0,seguridad.codigo_barrio,1410,,SIN_INFO,,,,,,,,,,,,,,0.03417760146475435,🥇 Oro,🟢 Segura
+,1.2857142857142858,9.0,seguridad.codigo_barrio,1411,,SIN_INFO,,,,,,,,,,,,,,0.030210558437595365,💎 Diamante,🟢 Segura
+,1.75,7.0,seguridad.codigo_barrio,1412,,SIN_INFO,,,,,,,,,,,,,,0.04111992676228258,🥇 Oro,🟢 Segura
+,1.1111111111111112,10.0,seguridad.codigo_barrio,1413,,SIN_INFO,,,,,,,,,,,,,,0.02610789000779846,💎 Diamante,🟢 Segura
+,1.2222222222222223,11.0,seguridad.codigo_barrio,1414,,SIN_INFO,,,,,,,,,,,,,,0.02871867900857831,💎 Diamante,🟢 Segura
+,2.111111111111111,38.0,seguridad.codigo_barrio,1415,,SIN_INFO,,,,,,,,,,,,,,0.04960499101481708,🥉 Bronce,🚨 Alerta Roja
+,1.7,17.0,seguridad.codigo_barrio,1416,,SIN_INFO,,,,,,,,,,,,,,0.039945071711931644,🥇 Oro,🟢 Segura
+,2.8666666666666667,86.0,seguridad.codigo_barrio,1417,,SIN_INFO,,,,,,,,,,,,,,0.06735835622012003,🧱 Cobre,🚨 Alerta Roja
+,4.214285714285714,236.0,seguridad.codigo_barrio,1418,,SIN_INFO,,,,,,,,,,,,,,0.09902349710100702,🧱 Cobre,🚨 Alerta Roja
+,3.6862745098039214,188.0,seguridad.codigo_barrio,1419,,SIN_INFO,,,,,,,,,,,,,,0.08661676449646077,🧱 Cobre,🚨 Alerta Roja
+,2.380952380952381,50.0,seguridad.codigo_barrio,1420,,SIN_INFO,,,,,,,,,,,,,,0.05594547858813956,🥉 Bronce,🚨 Alerta Roja
+,7.041666666666667,507.0,seguridad.codigo_barrio,1421,,SIN_INFO,,,,,,,,,,,,,,0.16545875292442275,🧱 Cobre,🚨 Alerta Roja
+,3.0238095238095237,127.0,seguridad.codigo_barrio,1422,,SIN_INFO,,,,,,,,,,,,,,0.07105075780693723,🧱 Cobre,🚨 Alerta Roja
+,3.963636363636364,218.0,seguridad.codigo_barrio,1423,,SIN_INFO,,,,,,,,,,,,,,0.09313396399145561,🧱 Cobre,🚨 Alerta Roja
+,2.7586206896551726,80.0,seguridad.codigo_barrio,1502,,SIN_INFO,,,,,,,,,,,,,,0.06481958898487894,🧱 Cobre,🚨 Alerta Roja
+,2.324324324324324,86.0,seguridad.codigo_barrio,1503,,SIN_INFO,,,,,,,,,,,,,,0.05461488342171894,🥉 Bronce,🚨 Alerta Roja
+,3.2096774193548385,199.0,seguridad.codigo_barrio,1504,,SIN_INFO,,,,,,,,,,,,,,0.07541811452252749,🧱 Cobre,🚨 Alerta Roja
+,2.5846153846153848,168.0,seguridad.codigo_barrio,1507,,SIN_INFO,,,,,,,,,,,,,,0.060730968756601965,🥉 Bronce,🚨 Alerta Roja
+,2.302325581395349,99.0,seguridad.codigo_barrio,1509,,SIN_INFO,,,,,,,,,,,,,,0.05409797673708937,🥉 Bronce,🚨 Alerta Roja
+,2.225,89.0,seguridad.codigo_barrio,1510,,SIN_INFO,,,,,,,,,,,,,,0.05228104974061642,🥉 Bronce,🚨 Alerta Roja
+,1.9444444444444444,70.0,seguridad.codigo_barrio,1511,,SIN_INFO,,,,,,,,,,,,,,0.0456888075136473,🥈 Plata,🟠 Alerta Media
+,2.1176470588235294,72.0,seguridad.codigo_barrio,1601,,SIN_INFO,,,,,,,,,,,,,,0.04975856683839236,🥉 Bronce,🚨 Alerta Roja
+,2.0,78.0,seguridad.codigo_barrio,1602,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,3.727272727272727,246.0,seguridad.codigo_barrio,1603,,SIN_INFO,,,,,,,,,,,,,,0.08758010375343302,🧱 Cobre,🚨 Alerta Roja
+,1.7272727272727273,19.0,seguridad.codigo_barrio,1604,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+,1.6666666666666667,25.0,seguridad.codigo_barrio,1605,,SIN_INFO,,,,,,,,,,,,,,0.03916183501169769,🥇 Oro,🟢 Segura
+,1.875,30.0,seguridad.codigo_barrio,1606,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+,1.9285714285714286,27.0,seguridad.codigo_barrio,1607,,SIN_INFO,,,,,,,,,,,,,,0.04531583765639304,🥈 Plata,🟠 Alerta Media
+,1.3529411764705883,23.0,seguridad.codigo_barrio,1608,,SIN_INFO,,,,,,,,,,,,,,0.03179019548008401,💎 Diamante,🟢 Segura
+,2.25,18.0,seguridad.codigo_barrio,1609,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+,1.7272727272727273,38.0,seguridad.codigo_barrio,1610,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+,1.7333333333333334,26.0,seguridad.codigo_barrio,1611,,SIN_INFO,,,,,,,,,,,,,,0.0407283084121656,🥇 Oro,🟢 Segura
+,1.894736842105263,36.0,seguridad.codigo_barrio,1612,,SIN_INFO,,,,,,,,,,,,,,0.044520822960666846,🥈 Plata,🟠 Alerta Media
+,2.076923076923077,27.0,seguridad.codigo_barrio,1613,,SIN_INFO,,,,,,,,,,,,,,0.04880167132226944,🥉 Bronce,🚨 Alerta Roja
+,2.0454545454545454,45.0,seguridad.codigo_barrio,1614,,SIN_INFO,,,,,,,,,,,,,,0.0480622520598108,🥉 Bronce,🚨 Alerta Roja
+,2.3333333333333335,56.0,seguridad.codigo_barrio,1615,,SIN_INFO,,,,,,,,,,,,,,0.054826569016376774,🥉 Bronce,🚨 Alerta Roja
+,1.5294117647058822,26.0,seguridad.codigo_barrio,1616,,SIN_INFO,,,,,,,,,,,,,,0.035936742716616704,🥇 Oro,🟢 Segura
+,1.5714285714285714,11.0,seguridad.codigo_barrio,1617,,SIN_INFO,,,,,,,,,,,,,,0.03692401586817211,🥇 Oro,🟢 Segura
+,1.0,8.0,seguridad.codigo_barrio,1618,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.3333333333333333,8.0,seguridad.codigo_barrio,1619,,SIN_INFO,,,,,,,,,,,,,,0.03132946800935815,💎 Diamante,🟢 Segura
+,2.1,21.0,seguridad.codigo_barrio,1620,,SIN_INFO,,,,,,,,,,,,,,0.04934391211473909,🥉 Bronce,🚨 Alerta Roja
+,1.875,15.0,seguridad.codigo_barrio,1621,,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,5004,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,6001,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,6003,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,6004,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,4.0,seguridad.codigo_barrio,6011,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,6012,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.25,9.0,seguridad.codigo_barrio,6013,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+,2.0,22.0,seguridad.codigo_barrio,6014,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,4.0,seguridad.codigo_barrio,6015,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,2.0,seguridad.codigo_barrio,6016,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,7002,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,3.0,6.0,seguridad.codigo_barrio,7003,,SIN_INFO,,,,,,,,,,,,,,0.07049130302105584,🧱 Cobre,🚨 Alerta Roja
+,2.0,4.0,seguridad.codigo_barrio,7007,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.0,2.0,seguridad.codigo_barrio,8001,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.5,3.0,seguridad.codigo_barrio,8002,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,4.0,4.0,seguridad.codigo_barrio,8005,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+,3.5,7.0,seguridad.codigo_barrio,8007,,SIN_INFO,,,,,,,,,,,,,,0.08223985352456516,🧱 Cobre,🚨 Alerta Roja
+,1.9,19.0,seguridad.codigo_barrio,9001,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+,1.5,9.0,seguridad.codigo_barrio,9002,,SIN_INFO,,,,,,,,,,,,,,0.03524565151052792,🥇 Oro,🟢 Segura
+,2.0,2.0,seguridad.codigo_barrio,9003,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,1.0,2.0,seguridad.codigo_barrio,9005,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.5714285714285714,11.0,seguridad.codigo_barrio,9006,,SIN_INFO,,,,,,,,,,,,,,0.03692401586817211,🥇 Oro,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,9009,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,9011,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.9,38.0,seguridad.codigo_barrio,AE1,,SIN_INFO,,,,,,,,,,,,,,0.04464449191333537,🥈 Plata,🟠 Alerta Media
+,1.0,1.0,seguridad.codigo_barrio,AE2,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.0,1.0,seguridad.codigo_barrio,AE5,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,4.0,4.0,seguridad.codigo_barrio,AE6,,SIN_INFO,,,,,,,,,,,,,,0.09398840402807446,🧱 Cobre,🚨 Alerta Roja
+,1.0,2.0,seguridad.codigo_barrio,AE7,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,1.5789473684210527,30.0,seguridad.codigo_barrio,AUC1,,SIN_INFO,,,,,,,,,,,,,,0.037100685800555706,🥇 Oro,🟢 Segura
+,1.7804878048780488,73.0,seguridad.codigo_barrio,AUC2,,SIN_INFO,,,,,,,,,,,,,,0.041836301792984365,🥇 Oro,🟢 Segura
+,2.176470588235294,37.0,seguridad.codigo_barrio,INST1,,SIN_INFO,,,,,,,,,,,,,,0.051140749250569925,🥉 Bronce,🚨 Alerta Roja
+,1.9333333333333333,29.0,seguridad.codigo_barrio,INST10,,SIN_INFO,,,,,,,,,,,,,,0.04542772861356932,🥈 Plata,🟠 Alerta Media
+,1.975,79.0,seguridad.codigo_barrio,INST11,,SIN_INFO,,,,,,,,,,,,,,0.04640677448886177,🥈 Plata,🟠 Alerta Media
+,2.193548387096774,68.0,seguridad.codigo_barrio,INST12,,SIN_INFO,,,,,,,,,,,,,,0.05154202801539567,🥉 Bronce,🚨 Alerta Roja
+,1.0,1.0,seguridad.codigo_barrio,INST13,,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,2.257142857142857,79.0,seguridad.codigo_barrio,INST14,,SIN_INFO,,,,,,,,,,,,,,0.0530363137015563,🥉 Bronce,🚨 Alerta Roja
+,1.625,13.0,seguridad.codigo_barrio,INST15,,SIN_INFO,,,,,,,,,,,,,,0.03818278913640525,🥇 Oro,🟢 Segura
+,2.710526315789474,103.0,seguridad.codigo_barrio,INST16,,SIN_INFO,,,,,,,,,,,,,,0.06368951062428731,🧱 Cobre,🚨 Alerta Roja
+,2.1132075471698113,112.0,seguridad.codigo_barrio,INST17,,SIN_INFO,,,,,,,,,,,,,,0.04965425118464311,🥉 Bronce,🚨 Alerta Roja
+,2.25,63.0,seguridad.codigo_barrio,INST18,,SIN_INFO,,,,,,,,,,,,,,0.052868477265791886,🥉 Bronce,🚨 Alerta Roja
+,2.1724137931034484,63.0,seguridad.codigo_barrio,INST19,,SIN_INFO,,,,,,,,,,,,,,0.05104542632559217,🥉 Bronce,🚨 Alerta Roja
+,1.25,10.0,seguridad.codigo_barrio,INST2,,SIN_INFO,,,,,,,,,,,,,,0.029371376258773268,💎 Diamante,🟢 Segura
+,1.1666666666666667,7.0,seguridad.codigo_barrio,INST20,,SIN_INFO,,,,,,,,,,,,,,0.027413284508188387,💎 Diamante,🟢 Segura
+,1.7272727272727273,19.0,seguridad.codigo_barrio,INST3,,SIN_INFO,,,,,,,,,,,,,,0.04058590173939579,🥇 Oro,🟢 Segura
+,6.057971014492754,418.0,seguridad.codigo_barrio,INST4,,SIN_INFO,,,,,,,,,,,,,,0.14234475682512726,🧱 Cobre,🚨 Alerta Roja
+,2.032258064516129,63.0,seguridad.codigo_barrio,INST5,,SIN_INFO,,,,,,,,,,,,,,0.047752173014263634,🥈 Plata,🟠 Alerta Media
+,2.6666666666666665,8.0,seguridad.codigo_barrio,INST6,,SIN_INFO,,,,,,,,,,,,,,0.0626589360187163,🧱 Cobre,🚨 Alerta Roja
+,1.9090909090909092,21.0,seguridad.codigo_barrio,INST7,,SIN_INFO,,,,,,,,,,,,,,0.04485810192249008,🥈 Plata,🟠 Alerta Media
+,2.0952380952380953,44.0,seguridad.codigo_barrio,INST8,,SIN_INFO,,,,,,,,,,,,,,0.04923202115756282,🥉 Bronce,🚨 Alerta Roja
+,3.212121212121212,106.0,seguridad.codigo_barrio,INST9,,SIN_INFO,,,,,,,,,,,,,,0.07547553656799919,🧱 Cobre,🚨 Alerta Roja
+,2.0,24.0,seguridad.codigo_barrio,SIN DATO,,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
+,2.2790697674418605,98.0,seguridad.codigo_comuna,,1,SIN_INFO,,,,,,,,,,,,,,0.05355153252762382,🥉 Bronce,🚨 Alerta Roja
+,42.55844155844156,6554.0,seguridad.codigo_comuna,,10,SIN_INFO,,,,,,,,,,,,,,1.0,🧱 Cobre,🚨 Alerta Roja
+,12.663865546218487,1507.0,seguridad.codigo_comuna,,11,SIN_INFO,,,,,,,,,,,,,,0.29756412787879877,🧱 Cobre,🚨 Alerta Roja
+,4.88,488.0,seguridad.codigo_comuna,,12,SIN_INFO,,,,,,,,,,,,,,0.11466585291425084,🧱 Cobre,🚨 Alerta Roja
+,3.287671232876712,240.0,seguridad.codigo_comuna,,13,SIN_INFO,,,,,,,,,,,,,,0.07725074303677353,🧱 Cobre,🚨 Alerta Roja
+,18.619834710743802,2253.0,seguridad.codigo_comuna,,14,SIN_INFO,,,,,,,,,,,,,,0.43751213693233837,🧱 Cobre,🚨 Alerta Roja
+,7.552631578947368,861.0,seguridad.codigo_comuna,,15,SIN_INFO,,,,,,,,,,,,,,0.17746494707932478,🧱 Cobre,🚨 Alerta Roja
+,8.052631578947368,918.0,seguridad.codigo_comuna,,16,SIN_INFO,,,,,,,,,,,,,,0.1892134975828341,🧱 Cobre,🚨 Alerta Roja
+,2.1714285714285713,76.0,seguridad.codigo_comuna,,2,SIN_INFO,,,,,,,,,,,,,,0.05102227647238328,🥉 Bronce,🚨 Alerta Roja
+,2.6973684210526314,205.0,seguridad.codigo_comuna,,3,SIN_INFO,,,,,,,,,,,,,,0.06338033824261599,🧱 Cobre,🚨 Alerta Roja
+,8.008474576271187,945.0,seguridad.codigo_comuna,,4,SIN_INFO,,,,,,,,,,,,,,0.18817593603078467,🧱 Cobre,🚨 Alerta Roja
+,12.203007518796992,1623.0,seguridad.codigo_comuna,,5,SIN_INFO,,,,,,,,,,,,,,0.2867353002585805,🧱 Cobre,🚨 Alerta Roja
+,1.0,1.0,seguridad.codigo_comuna,,50,SIN_INFO,,,,,,,,,,,,,,0.023497101007018614,💎 Diamante,🟢 Segura
+,3.0121951219512195,247.0,seguridad.codigo_comuna,,6,SIN_INFO,,,,,,,,,,,,,,0.07077785303333656,🧱 Cobre,🚨 Alerta Roja
+,2.6511627906976742,114.0,seguridad.codigo_comuna,,60,SIN_INFO,,,,,,,,,,,,,,0.062294639879072605,🧱 Cobre,🚨 Alerta Roja
+,6.719298245614035,766.0,seguridad.codigo_comuna,,7,SIN_INFO,,,,,,,,,,,,,,0.15788402957347594,🧱 Cobre,🚨 Alerta Roja
+,2.6666666666666665,16.0,seguridad.codigo_comuna,,70,SIN_INFO,,,,,,,,,,,,,,0.0626589360187163,🧱 Cobre,🚨 Alerta Roja
+,3.3076923076923075,258.0,seguridad.codigo_comuna,,8,SIN_INFO,,,,,,,,,,,,,,0.07772118025398464,🧱 Cobre,🚨 Alerta Roja
+,2.022222222222222,91.0,seguridad.codigo_comuna,,80,SIN_INFO,,,,,,,,,,,,,,0.0475163598141932,🥈 Plata,🟠 Alerta Media
+,3.0555555555555554,275.0,seguridad.codigo_comuna,,9,SIN_INFO,,,,,,,,,,,,,,0.07179669752144577,🧱 Cobre,🚨 Alerta Roja
+,1.875,45.0,seguridad.codigo_comuna,,90,SIN_INFO,,,,,,,,,,,,,,0.0440570643881599,🥈 Plata,🟠 Alerta Media
+,2.0,24.0,seguridad.codigo_comuna,,SIN DATO,SIN_INFO,,,,,,,,,,,,,,0.04699420201403723,🥈 Plata,🟠 Alerta Media
